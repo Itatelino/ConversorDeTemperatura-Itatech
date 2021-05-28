@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Conversor de Temperaturas\bin\Debug\Conversor de Temperaturas.exe.config
+C:\Users\PC\source\repos\Conversor de Temperaturas\bin\Debug\Conversor de Temperaturas.exe
+C:\Users\PC\source\repos\Conversor de Temperaturas\bin\Debug\Conversor de Temperaturas.pdb
+C:\Users\PC\source\repos\Conversor de Temperaturas\obj\Debug\ConversaoDeTemperatura.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Conversor de Temperaturas\obj\Debug\Conversor_de_Temperaturas.frmPrincipal.resources
+C:\Users\PC\source\repos\Conversor de Temperaturas\obj\Debug\Conversor_de_Temperaturas.Properties.Resources.resources
+C:\Users\PC\source\repos\Conversor de Temperaturas\obj\Debug\ConversaoDeTemperatura.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Conversor de Temperaturas\obj\Debug\ConversaoDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Conversor de Temperaturas\obj\Debug\Conversor de Temperaturas.exe
+C:\Users\PC\source\repos\Conversor de Temperaturas\obj\Debug\Conversor de Temperaturas.pdb
